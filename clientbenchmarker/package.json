@@ -1,0 +1,18 @@
+{
+  "name": "clientbenchmarker",
+  "version": "1.0.0",
+  "description": "",
+  "main": "main.js",
+  "dependencies": {
+    "api-benchmark": "^0.5.0",
+    "parse-large-json": "^1.2.0",
+    "stream-json": "^1.1.3"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node ."
+  },
+  "author": "",
+  "license": "ISC"
+}
